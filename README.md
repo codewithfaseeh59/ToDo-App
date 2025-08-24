@@ -7,7 +7,7 @@ All tasks are saved in the browser’s **LocalStorage**, so your list stays inta
 
 ## Demo & Repository
 
--   **Live Demo:** (https://codewithfaseeh59.github.io/ToDo-App/)
+-   **Live Demo:** https://codewithfaseeh59.github.io/ToDo-App/
 -   **Repository:** [To-Do App](https://github.com/codewithfaseeh59/Portfolio_Projects-CodeWithFaseeh/tree/main/ToDo%20App)
 
 ---
